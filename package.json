@@ -1,0 +1,29 @@
+{
+  "name": "dynamo",
+  "version": "0.0.1",
+  "description": "Dynamo music.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "distube": "^2.8.10",
+    "ffmpeg-static": "^4.2.7",
+    "@discordjs/opus": "^0.3.3",
+    "fs": "^0.0.2",
+    "spotify-url-info": "^2.2.0"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "author": "-Lexy♡-",
+  "keywords": [
+    "music",
+    "dynamo"
+  ]
+}
